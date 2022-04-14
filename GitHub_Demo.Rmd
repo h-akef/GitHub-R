@@ -113,7 +113,7 @@ Git will not automatically track changes, so you have to tell it when you made c
 Exercise: type in anything in the space below, perhaps how you're feeling right now, or what plans you have for this weekend 
 
 
->>>> write text here
+>>>> this is huda testing this
 
 
 Once you're done writing, make sure you save the file. You'll see it show up in the Git tab, then you can click on Commit and see what happens!
