@@ -191,7 +191,7 @@ Now let's *push* some changes from RStudio to GitHub:
 1. Write anything below, save the file, and commit the changes.
 2. Click on the up arrow, then go to the GitHub repo and check if you can see the new commit there.
 
->>>> write text here
+>>>> quick edit here
 
 *******
 
